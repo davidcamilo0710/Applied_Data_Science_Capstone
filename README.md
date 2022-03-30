@@ -1,4 +1,4 @@
-# IBM-Data-Science-Final-Project
+# IBM Data Science Final Project
 
 This repository is the final project of the IBM-Applied Data Science Capstone.
 It consists of creating a presentation based on the results of all the tasks of the modules and laboratories of the course. The presentation is a history of the entire development of this project, and it should be convincing and easy to understand.
